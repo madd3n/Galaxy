@@ -351,5 +351,7 @@ class MainWidget(RelativeLayout):
 class GalaxyApp(App):
     pass
 
-GalaxyApp().run()
+
+if __name__ == "__main__":
+    GalaxyApp().run()
 
