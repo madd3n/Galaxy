@@ -148,6 +148,7 @@ class MainWidget(RelativeLayout):
     def check_ship_collision(self):
         for i in range(0, len(self.tiles_coordinates)):
             ti_x, ti_y = self.tiles_coordinates[i]
+            
             if(ti_y > self.current_y_loop + 1):
                 return False
 
