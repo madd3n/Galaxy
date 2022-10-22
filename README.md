@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 Galaxy
 =======
-# Galaxy
->>>>>>> 72debfef365d5209bb1dc8745523500acf74d35e
+Game creation tutorial in Kivy to learn new things :D
+
+tutorial -> https://www.youtube.com/watch?v=l8Imtec4ReQ
