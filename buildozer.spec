@@ -32,7 +32,7 @@ source.include_exts =
 version = 1.0
 
 # (list) Application requirements
-requirements = python3,kivy,plyer,libshine,libx264,ffpyplayer,ffpyplayer_codecs,plyer,android,pyjnius
+requirements = python3,kivy,plyer,ffpyplayer,ffpyplayer_codecs,android
 
 # (str) Presplash of the application
 #presplash.filename = %(source.dir)s/data/presplash.png
