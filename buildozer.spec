@@ -32,7 +32,7 @@ source.include_exts = py,png,jpg,kv,atlas,wav
 version = 1.0
 
 # (list) Application requirements
-requirements = python3,kivy,plyer,ffpyplayer,ffpyplayer_codecs,libx264,libshine
+requirements = python3,kivy,ffpyplayer,libx264,libshine
 
 # (str) Presplash of the application
 #presplash.filename = %(source.dir)s/data/presplash.png
